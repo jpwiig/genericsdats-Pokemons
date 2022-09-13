@@ -1,7 +1,7 @@
 public class Pokemon implements Comparable<Pokemon>{
     String name;
     Integer level;
-    int hp;
+    Integer hp;
 
     Pokemon(String name, int level, int hp) {
         this.hp = hp;
@@ -12,9 +12,10 @@ public class Pokemon implements Comparable<Pokemon>{
     public int compareTo(Pokemon lommemonster1){
         //level
         int max = this.level.compareTo(lommemonster1.level);
-       /* if (lommemonster1.level < level) return 1;
-        if (lommemonster1.level > level) return -1;
-       return 0;*/
+        //hp
+        if (max == 0) max = this.hp.compareTo(lommemonster1.hp);
+        //navn
+        if(max == 0) max = this.name.compareTo(lommemonster1.name);
         return max;
     }
     @Override
