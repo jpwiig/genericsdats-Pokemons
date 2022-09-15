@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21f955b0-12a7-4333-9d43-0a29002ecf84" name="Changes" comment="inittttt">
+    <list default="true" id="21f955b0-12a7-4333-9d43-0a29002ecf84" name="Changes" comment="added compareable to navn">
+      <change afterPath="$PROJECT_DIR$/src/Generics2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pokemon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,13 +29,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Generics1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Generics1" />
@@ -58,7 +58,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663051511480</updated>
-      <workItem from="1663051513315" duration="4251000" />
+      <workItem from="1663051513315" duration="5375000" />
+      <workItem from="1663223394712" duration="749000" />
     </task>
     <task id="LOCAL−00001" summary="inittttt">
       <created>1663055951305</created>
@@ -66,7 +67,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1663055951305</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="added compareable to navn">
+      <created>1663056625892</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1663056625892</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inittttt" />
-    <option name="LAST_COMMIT_MESSAGE" value="inittttt" />
+    <MESSAGE value="added compareable to navn" />
+    <option name="LAST_COMMIT_MESSAGE" value="added compareable to navn" />
   </component>
 </project>
